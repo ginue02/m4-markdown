@@ -8,4 +8,12 @@ A `heading` with the name of the command
 An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
+## mkdir ##
+
+Ex) `mkdir` FILE_NAME
+
+ - Creates directory
+   1. put names with spaces in quotes
+     * idk what else to say
+
 See `complete` branch for answers.
