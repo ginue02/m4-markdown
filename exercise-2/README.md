@@ -4,4 +4,10 @@ As described in [chapter-5](https://info201-s17.github.io/book/introduction-to-g
 
 In the space below, make a three column table of the current courses you are taking, with separate columns for course number (in **bold**), course title (in _italics_), and instructor.
 
+|**Course Number**|*Course Title*|**Instructor**|
+| --------------- | -------------- | -------------|
+|1|QMETH 201|Erich Studer-Ellis|
+|2|INFO 200|David L Stearns|
+|3|INFO 201|Michael Freeman|
+
 See `complete` branch for answers.
